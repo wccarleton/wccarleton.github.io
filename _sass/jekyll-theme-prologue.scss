@@ -245,6 +245,13 @@
 			width: 100%;
 		}
 
+		&.smimg {
+			display: block;
+			max-width: 50%;
+			height: auto;
+			margin: 0 0 2em 0;
+		}
+
 		&.avatar48 {
 			width: 48px;
 			height: 48px;
