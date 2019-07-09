@@ -1,4 +1,4 @@
 title: W. Christopher Carleton
 description: Archaeological Data Scientist and high-functioning nerd.
 name: W. Christopher Carleton
-theme: jekyll-theme-slate
+remote_theme: chrisbobbe/jekyll-theme-prologue
