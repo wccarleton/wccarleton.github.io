@@ -44,12 +44,12 @@ url: "wccarleton.me" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url:
+twitter_url: https://twitter.com/wccarleton
 facebook_url:
 googleplus_url:
 instagram_url:
 linkedin_url:
-github_url:
+github_url: https://github.com/wccarleton
 pinterest_url:
 slack_url:
 dribbble_url:
