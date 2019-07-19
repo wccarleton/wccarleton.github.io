@@ -1,5 +1,6 @@
 ---
 title: Extreme-Events
 layout: post
+order: 2
 ---
 <h2>This is where the project description and links to more information will go</h2>
