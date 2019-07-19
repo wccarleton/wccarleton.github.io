@@ -2,7 +2,7 @@
 layout: default
 ---
 {%- assign _projs = site.projs | sort: 'order' -%}
-{%- include header.html scrolly_nav=_posts -%}
+{%- include header.html scrolly_nav=_projs -%}
 <!-- Main -->
 <div id="main">
 	{%- if page.content != "" -%}
