@@ -15,7 +15,6 @@ layout: default
 		{%- endcapture -%}
 		{%- capture _subtitle -%}
 			{% if _proj.author -%}{{- _proj.author }} | {% endif %}
-			{{- _proj.date | date_to_long_string -}}
 		{%- endcapture -%}
 		{%- capture _excerpt -%}<p>{{- _proj.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
 		{%- capture _link -%}<a href="{{- _proj.url | absolute_url -}}">read more</a>{%- endcapture -%}
