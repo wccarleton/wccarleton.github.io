@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{%- assign _posts = site.projs | sort: 'title' -%}
+{%- assign _posts = site.projs | sort: 'order' -%}
 {%- include header.html scrolly_nav=_posts -%}
 <!-- Main -->
 <div id="main">
