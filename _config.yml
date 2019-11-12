@@ -21,7 +21,7 @@
 title: Archaeological Data Science
 email: ccarleton@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I use advanced data science methods to study long-term human-environment interaction using the archaeological record as a source for case-studies.
+  I apply advanced data science methods to the study long-term human-environment interaction using the archaeological record as a source for case-studies.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wccarleton.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wccarleton
@@ -34,6 +34,8 @@ plugins:
 
 header_pages:
   - about.md
+  - cv.md
+  - project.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
