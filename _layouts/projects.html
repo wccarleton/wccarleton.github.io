@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{%- assign _projs = site.projs | sort: 'order' -%}
+{%- assign _projs = site.projs -%}
 {%- include header.html scrolly_nav=_projs -%}
 <!-- Main -->
 <div id="main">
@@ -13,12 +13,9 @@ layout: default
 		{%- capture _title -%}
 			<a href="{{- _proj.url | absolute_url -}}">{{- _proj.title -}}</a>
 		{%- endcapture -%}
-		{%- capture _subtitle -%}
-			{% if _proj.author -%}{{- _proj.author }} | {% endif %}
-		{%- endcapture -%}
 		{%- capture _excerpt -%}<p>{{- _proj.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
 		{%- capture _link -%}<a href="{{- _proj.url | absolute_url -}}">read more</a>{%- endcapture -%}
 		{%- assign _content = _excerpt | append: _link -%}
-		{%- include section.html title=_title subtitle=_subtitle content=_content -%}
+		{%- include section.html title=_title content=_content -%}
 	{%- endfor -%}
 </div>
