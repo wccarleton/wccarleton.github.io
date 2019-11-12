@@ -22,7 +22,7 @@ title: Archaeological Data Science
 email: ccarleton@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I apply advanced data science methods to the study long-term human-environment interaction using the archaeological record as a source for case-studies.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/index" # the subpath of your site, e.g. /blog
 url: "http://wccarleton.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wccarleton
 github_username: wccarleton
