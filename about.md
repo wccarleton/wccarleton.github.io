@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![alt text](https://github.com/wccarleton/wccarleton.github.io/assets/img/ccarleton_ICEMPG_Extreme_Events.jpeg "Logo Title Text 1")
+![alt text]({{site.url}}/assets/img/ccarleton.jpeg)
 
 I'm a postdoctoral fellow at the [Max Planck Institute for Chemical Ecology](https://max.mpg.de/sites/ice/Pages/WelcomePage_EN.aspx) in Jena, Germany.
 
