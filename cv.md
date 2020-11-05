@@ -25,13 +25,13 @@ Statistics; Regression Models; Time-Series Analysis; Remote Sensing; Geographic 
 - Currently on the supervisory committee for an MA student at Simon Fraser University
 
 #### Research
-- 50+ months as a research assistant and/or fellow
+- 60+ months as a research assistant and/or fellow
 - 1 PhD Dissertation
 - 1 MA Thesis
 - 1 Undergraduate Honours Thesis
 
 #### Publication Record
-- 9 first-author publications in high-quality, high-impact peer-reviewed journals---see my [Google Scholar Profile](https://scholar.google.com/citations?user=0ZG-6CsAAAAJ&hl=en).
+- 10 first-author publications in high-quality, high-impact peer-reviewed journals---see my [Google Scholar Profile](https://scholar.google.com/citations?user=0ZG-6CsAAAAJ&hl=en).
 - Find my open-science projects at the [Open Science Foundation](https://osf.io/729ne/)
 
 #### Funding
