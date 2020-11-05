@@ -64,13 +64,21 @@ Statistics; Regression Models; Time-Series Analysis; Remote Sensing; Geographic 
 ---
 ### Academic Contributions
 #### Under Review and In Prep.
-- Carleton, W., Campbell, D., Collard, M. (In Prep.) Climate change and conflict in Europe during the second millennium.
+- Groucutt, H., Blinkhorn, J., Carleton, W., Andrieux, E., Armitage, S., Shipton, C., Breeze, P.,, Drake, N., Al-Omari, A., Alsharekh, A., Scerri, E., Blockley, S., Petraglia, M. (In Prep.) Neanderthals in Arabia 60-50 thousand years ago.
 
-- Carleton, W. and Groucutt, H. (Under Review) Sum things are not what they seem: Problems with the interpretation and analysis of radiocarbon-date proxies. Quaternary Geochronology.
+- Stewart, M., Carleton, W., Groucutt, H. (Under Review) Climate change, not human population growth, correlates with the Late Pleistocene megafauna extinctions in North America. Nature Communications.
 
-- Carleton, W., Campbell, D., Collard, M. (Under Review) Bayesian time-series analyses reveal a substantial impact of climate change on Classic Maya conflict. Climatic Change.
+- Groucutt, H. and Carleton, W. (Under Review) Mass-kill hunting and Late Quaternary ecology: New insights into the ‘desert kite’ phenomenon in Arabia. The Holocene.
+
+- Carleton W. and Groucutt, H. (Under Review) Sum things are not what they seem: Problems with the interpretation and analysis of radiocarbon-date proxies. The Holocene.
+
+- Carleton, W., Campbell, D., Collard, M. (Under Review) Climate change and conflict in Europe during the second millennium. Climatic Change.
+
+- Carleton, W., Campbell, D., Collard, M. (Under Review) Bayesian time-series analyses reveal a substantial impact of climate change on Classic Maya conflict. PLoS.
 
 #### Peer-Reviewed
+- Carleton, W. (2020) Evaluating Bayesian radiocarbon-dated event-count (REC) models for the study of long-term human and environmental processes. Journal of Quaternary Science. [DOI: 10.1002/jqs.3256](https://10.1002/jqs.3256)
+
 - Carleton, W., McCauley, B., Costopolous, A., Collard, M. 2019. Agent-based model experiments cast doubt on Dunnell’s adaptive waste explanation for cultural elaboration. Science and Technology in Archaeology (STAR). DOI: 10.1080/20548923.2019.1647648.
 
 - Carleton, W., and Collard, M. 2019. Recent major themes and research areas in the study of human-environment interaction in prehistory. Environmental Archaeology, DOI: 10.1080/14614103.2018.1560932.
