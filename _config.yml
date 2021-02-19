@@ -37,7 +37,7 @@ header_pages:
   - projects.md
   - blog.md
 
- collections:
+collections:
   projects:
     output: true
 
