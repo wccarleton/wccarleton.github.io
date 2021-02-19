@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Climate Change and Human Conflict
 description: Investigating the impact of climate change on conflict over the long term
 ---
