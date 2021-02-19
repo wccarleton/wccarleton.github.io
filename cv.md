@@ -31,7 +31,7 @@ Statistics; Regression Models; Time-Series Analysis; Remote Sensing; Geographic 
 - 1 Undergraduate Honours Thesis
 
 #### Publication Record
-- 10 first-author publications in high-quality, high-impact peer-reviewed journals---see my [Google Scholar Profile](https://scholar.google.com/citations?user=0ZG-6CsAAAAJ&hl=en).
+- 12 first-author publications in high-quality, high-impact peer-reviewed journals---see my [Google Scholar Profile](https://scholar.google.com/citations?user=0ZG-6CsAAAAJ&hl=en).
 - Find my open-science projects at the [Open Science Foundation](https://osf.io/729ne/)
 
 #### Funding
@@ -114,7 +114,7 @@ Statistics; Regression Models; Time-Series Analysis; Remote Sensing; Geographic 
 
 ---
 ### Teaching and Supervision
-- 2019-Present MA committee member for Rob Rondeau, Department of Archaeology, Simon Fraser University (https://www.sfu.ca/archaeology/graduate/grad_students/rondeau.html)
+- 2019-2021 MA (defense passed) committee member for Rob Rondeau, Department of Archaeology, Simon Fraser University (https://www.sfu.ca/archaeology/graduate/grad_students/rondeau.html)
 
 ---
 ### Professional Involvement
