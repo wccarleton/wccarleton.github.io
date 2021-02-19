@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Archaeological Data Science
+title: Palaeo Data Science
 email: ccarleton@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I apply advanced data science methods to the study long-term human-environment interaction using the archaeological record as a source for case-studies.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wccarleton.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: wccarleton
 github_username: wccarleton
 
 # Build settings
@@ -35,7 +34,7 @@ plugins:
 header_pages:
   - about.md
   - cv.md
-  - project.md
+  - projects.md
   - blog.md
 
 # Exclude from processing.
