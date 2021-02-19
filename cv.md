@@ -64,19 +64,19 @@ Statistics; Regression Models; Time-Series Analysis; Remote Sensing; Geographic 
 ---
 ### Academic Contributions
 #### Under Review and In Prep.
-- Groucutt, H., Blinkhorn, J., Carleton, W., Andrieux, E., Armitage, S., Shipton, C., Breeze, P.,, Drake, N., Al-Omari, A., Alsharekh, A., Scerri, E., Blockley, S., Petraglia, M. (In Prep.) Neanderthals in Arabia 60-50 thousand years ago.
-
-- Stewart, M., Carleton, W., Groucutt, H. (Under Review) Climate change, not human population growth, correlates with the Late Pleistocene megafauna extinctions in North America. Nature Communications.
+- Groucutt, H., Blinkhorn, J., Carleton, W., Andrieux, E., Armitage, S., Shipton, C., Breeze, P.,, Drake, N., Al-Omari, A., Alsharekh, A., Scerri, E., Blockley, S., Petraglia, M. (Under Review) Neanderthals in Arabia 60-50 thousand years ago.
 
 - Groucutt, H. and Carleton, W. (Under Review) Mass-kill hunting and Late Quaternary ecology: New insights into the ‘desert kite’ phenomenon in Arabia. The Holocene.
-
-- Carleton W. and Groucutt, H. (Under Review) Sum things are not what they seem: Problems with the interpretation and analysis of radiocarbon-date proxies. The Holocene.
-
-- Carleton, W., Campbell, D., Collard, M. (Under Review) Climate change and conflict in Europe during the second millennium. Climatic Change.
 
 - Carleton, W., Campbell, D., Collard, M. (Under Review) Bayesian time-series analyses reveal a substantial impact of climate change on Classic Maya conflict. PLoS.
 
 #### Peer-Reviewed
+- Stewart, M., Carleton, W., Groucutt, H. (2021) Climate change, not human population growth, correlates with the Late Pleistocene megafauna extinctions in North America. Nature Communications. [DOI: 10.1038/s41467-021-21201-8](https://dx.doi.org/10.1038/s41467-021-21201-8)
+
+- Carleton, W., Campbell, D., Collard, M. (2021) A reassessment of the impact of temperature change on European conflict during the second millennium CE using a bespoke Bayesian time-series model. Climatic Change. [DOI: 10.1007/s10584-021-03022-2](https://doi.org/10.1007/s10584-021-03022-2)
+
+- Carleton W. and Groucutt, H. (2020) Sum things are not what they seem: Problems with point-wise interpretations and quantitative analyses of proxies based on aggregated radiocarbon dates. The Holocene. [DOI: 10.1177/0959683620981700](https://dx.doi.org/10.1177/0959683620981700)
+
 - Carleton, W. (2020) Evaluating Bayesian radiocarbon-dated event-count (REC) models for the study of long-term human and environmental processes. Journal of Quaternary Science. [DOI: 10.1002/jqs.3256](https://onlinelibrary.wiley.com/doi/full/10.1002/jqs.3256)
 
 - Carleton, W., McCauley, B., Costopolous, A., Collard, M. 2019. Agent-based model experiments cast doubt on Dunnell’s adaptive waste explanation for cultural elaboration. Science and Technology in Archaeology (STAR). [DOI: 10.1080/20548923.2019.1647648](https://www.tandfonline.com/doi/full/10.1080/20548923.2019.1647648).
