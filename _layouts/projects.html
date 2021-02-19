@@ -1,4 +1,7 @@
 ---
 layout: default
 ---
-<h1>{{ "Hello World!" | downcase }}</h1>
+<h1>{{ "My Projects" | downcase }}</h1>
+{% for project in site.projects %}
+  <h2>{{ project.title }}</h2>
+{% endfor %}

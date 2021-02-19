@@ -7,4 +7,4 @@ layout: page
 {: style="text-align:center"}
 ![alt text]({{site.url}}/assets/img/trowel_data.png#center)
 
->Archaeological Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured archaeological and palaeoenvironmental data with a special emphasis on the idiosyncrasies of these data types.
+>Palaeo Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured archaeological and palaeoenvironmental data with a special emphasis on the idiosyncrasies of these data types.
