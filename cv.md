@@ -75,7 +75,7 @@ Statistics; Regression Models; Time-Series Analysis; Remote Sensing; Geographic 
 
 - Carleton, W., Campbell, D., Collard, M. (2021) A reassessment of the impact of temperature change on European conflict during the second millennium CE using a bespoke Bayesian time-series model. Climatic Change. [DOI: 10.1007/s10584-021-03022-2](https://doi.org/10.1007/s10584-021-03022-2)
 
-- Carleton W. and Groucutt, H. (2020) Sum things are not what they seem: Problems with point-wise interpretations and quantitative analyses of proxies based on aggregated radiocarbon dates. The Holocene. [DOI: 10.1177/0959683620981700](https://dx.doi.org/10.1177/0959683620981700)
+- Carleton W. and Groucutt, H. (2020) Sum things are not what they seem: Problems with point-wise interpretations and quantitative analyses of proxies based on aggregated radiocarbon dates. The Holocene. [DOI: 10.1177/0959683620981700](https://dx.doi.org/10.1177/0959683620981700) <div data-badge-popover="right" data-badge-type="1" data-doi="10.1177/0959683620981700" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 - Carleton, W. (2020) Evaluating Bayesian radiocarbon-dated event-count (REC) models for the study of long-term human and environmental processes. Journal of Quaternary Science. [DOI: 10.1002/jqs.3256](https://onlinelibrary.wiley.com/doi/full/10.1002/jqs.3256)
 
