@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Palaeo Data Science
+title: W. Christopher Carleton
 email: ccarleton@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I apply advanced data science methods to the study long-term human-environment interaction using the archaeological record as a source for case-studies.
@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.md
+  - palaeodatascience.md
   - cv.md
   - projects.md
   - blog.md

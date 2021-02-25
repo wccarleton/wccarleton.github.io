@@ -4,7 +4,8 @@
 
 layout: page
 ---
-{: style="text-align:center"}
-![alt text]({{site.url}}/assets/img/palaeodatasci_icon.svg#center)
+![alt text]({{site.url}}/assets/img/BlackForestCastle.jpg)
 
->Palaeo Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured archaeological and palaeoenvironmental data with a special emphasis on the idiosyncrasies of these data types.
+I'm a postdoctoral researcher with the Independent Max Planck Extreme Events Research Group located in Jena Germany. The group is affiliated with and funded by the Max Planck Institutes for Chemical Ecology, The Science of Human History, and Biogeochemisty, all located in Jena. Our primary office is at the [Max Planck Institute for Chemical Ecology](https://www.ice.mpg.de/ext/index.php?id=extreme-events).
+
+I specialize in archaeological and palaeoenvironmental data science. My research involves long-term human-environment interaction and, of course now, ["Extreme Events"](https://www.shh.mpg.de/1437297/extreme_events).
