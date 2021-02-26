@@ -4,7 +4,7 @@
 
 layout: page
 ---
-![alt text]({{site.url}}/assets/img/BlackForestCastle.jpg)
+![alt text]({{site.url}}/assets/img/BlackForestCastle_crop.jpg)
 
 I'm a postdoctoral researcher with the Independent Max Planck Extreme Events Research Group located in Jena Germany. The group is affiliated with and funded by the Max Planck Institutes for Chemical Ecology, The Science of Human History, and Biogeochemisty, all located in Jena. Our primary office is at the [Max Planck Institute for Chemical Ecology](https://www.ice.mpg.de/ext/index.php?id=extreme-events).
 
