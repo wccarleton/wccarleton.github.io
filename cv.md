@@ -21,17 +21,17 @@ Archaeologist; Data Scientist; Quantitative and Qualitative Research; Software D
 Statistics; Regression Models; Time-Series Analysis; Remote Sensing; Geographic Information Systems; Spatial Analysis; Agent-based Models; Computer Simulation; High-Performance Computing (parallel processing)
 
 #### Teaching
-- 5 terms (semesters) as a teaching assistant
-- Currently on the supervisory committee for an MA student at Simon Fraser University
+- 5 terms (semesters) as a teaching assistant at two Canadian universities
+- Served on supervisory committee for an MA student at Simon Fraser University, completed in 2021
 
 #### Research
 - 60+ months as a research assistant and/or fellow
-- 1 PhD Dissertation
-- 1 MA Thesis
-- 1 Undergraduate Honours Thesis
+- PhD Dissertation
+- MA Thesis
+- Undergraduate Honours Thesis
 
 #### Publication Record
-- 12 first-author publications in high-quality, high-impact peer-reviewed journals---see my [Google Scholar Profile](https://scholar.google.com/citations?user=0ZG-6CsAAAAJ&hl=en).
+- 13 publications (12 as first author) in high-quality, high-impact peer-reviewed journals---see my [Google Scholar Profile](https://scholar.google.com/citations?user=0ZG-6CsAAAAJ&hl=en).
 - Find my open-science projects at the [Open Science Foundation](https://osf.io/729ne/)
 
 #### Funding
