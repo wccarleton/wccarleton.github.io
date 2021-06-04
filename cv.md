@@ -64,53 +64,65 @@ Statistics; Regression Models; Time-Series Analysis; Remote Sensing; Geographic 
 ---
 ### Academic Contributions
 #### Under Review and In Prep.
-- Groucutt, H., Blinkhorn, J., Carleton, W., Andrieux, E., Armitage, S., Shipton, C., Breeze, P.,, Drake, N., Al-Omari, A., Alsharekh, A., Scerri, E., Blockley, S., Petraglia, M. (Under Review) Neanderthals in Arabia 60-50 thousand years ago.
+- Groucutt, H., Blinkhorn, J., **Carleton, W.**, Andrieux, E., Armitage, S., Shipton, C., Breeze, P.,, Drake, N., Al-Omari, A., Alsharekh, A., Scerri, E., Blockley, S., Petraglia, M. (Under Review) Neanderthals in Arabia 60-50 thousand years ago.
 
-- Groucutt, H. and Carleton, W. (Under Review) Mass-kill hunting and Late Quaternary ecology: New insights into the ‘desert kite’ phenomenon in Arabia. The Holocene.
+- Rondeau, R., **Carleton, W.**, Driver, J., Collard, M. (In Prep.) Testing the Locally-Adaptive Model of Archaeological Potential (LAMAP) with hunter-gatherer sites in the Tanana River Valley, Alaska.
 
-- Carleton, W., Campbell, D., Collard, M. (Under Review) Bayesian time-series analyses reveal a substantial impact of climate change on Classic Maya conflict. PLoS.
+- Vandam, R., Willett, P.T., **Carleton, W.C.**, & Poblome, J. (forthcoming). Get Going with Survey Legacy Data. The 2018 and 2019 Archaeological Survey Results from the Sagalassos Archaeological Research Project. In S.R. Steadman & G. McMahon (eds.) The Archaeology of Anatolia Volume IV: Recent Discoveries (2018-2020). Cambridge: Cambridge Scholars Publishing
 
-#### Peer-Reviewed
-- Stewart, M., Carleton, W., Groucutt, H. (2021) Climate change, not human population growth, correlates with the Late Pleistocene megafauna extinctions in North America. Nature Communications. [DOI: 10.1038/s41467-021-21201-8](https://dx.doi.org/10.1038/s41467-021-21201-8)
 
-- Carleton, W., Campbell, D., Collard, M. (2021) A reassessment of the impact of temperature change on European conflict during the second millennium CE using a bespoke Bayesian time-series model. Climatic Change. [DOI: 10.1007/s10584-021-03022-2](https://doi.org/10.1007/s10584-021-03022-2)
+
+#### Peer-Reviewed Journals
+- **Carleton, W.**, Campbell, D., Collard, M. (Accepted) Bayesian time-series analyses reveal a substantial impact of climate change on Classic Maya conflict. PLoS One.
+
+- Groucutt, H. and **Carleton, W.** (2021) Mass-kill hunting and Late Quaternary ecology: New insights into the ‘desert kite’ phenomenon in Arabia. Journal of Archaeological Science: Reports. [DOI: 10.1016/j.jasrep.2021.102995](https://doi.org/10.1016/j.jasrep.2021.102995)
+
+- Stewart, M., **Carleton, W.**, Groucutt, H. (2021) Climate change, not human population growth, correlates with the Late Pleistocene megafauna extinctions in North America. Nature Communications. [DOI: 10.1038/s41467-021-21201-8](https://dx.doi.org/10.1038/s41467-021-21201-8)
+
+- **Carleton, W.**, Campbell, D., Collard, M. (2021) A reassessment of the impact of temperature change on European conflict during the second millennium CE using a bespoke Bayesian time-series model. Climatic Change. [DOI: 10.1007/s10584-021-03022-2](https://doi.org/10.1007/s10584-021-03022-2)
 
 - Carleton W. and Groucutt, H. (2020) Sum things are not what they seem: Problems with point-wise interpretations and quantitative analyses of proxies based on aggregated radiocarbon dates. The Holocene. [DOI: 10.1177/0959683620981700](https://dx.doi.org/10.1177/0959683620981700)
 
-- Carleton, W. (2020) Evaluating Bayesian radiocarbon-dated event-count (REC) models for the study of long-term human and environmental processes. Journal of Quaternary Science. [DOI: 10.1002/jqs.3256](https://onlinelibrary.wiley.com/doi/full/10.1002/jqs.3256)
+- **Carleton, W.** (2020) Evaluating Bayesian radiocarbon-dated event-count (REC) models for the study of long-term human and environmental processes. Journal of Quaternary Science. [DOI: 10.1002/jqs.3256](https://onlinelibrary.wiley.com/doi/full/10.1002/jqs.3256)
 
-- Carleton, W., McCauley, B., Costopolous, A., Collard, M. 2019. Agent-based model experiments cast doubt on Dunnell’s adaptive waste explanation for cultural elaboration. Science and Technology in Archaeology (STAR). [DOI: 10.1080/20548923.2019.1647648](https://www.tandfonline.com/doi/full/10.1080/20548923.2019.1647648).
+- **Carleton, W.**, McCauley, B., Costopolous, A., Collard, M. 2019. Agent-based model experiments cast doubt on Dunnell’s adaptive waste explanation for cultural elaboration. Science and Technology in Archaeology (STAR). [DOI: 10.1080/20548923.2019.1647648](https://www.tandfonline.com/doi/full/10.1080/20548923.2019.1647648).
 
-- Carleton, W., and Collard, M. 2019. Recent major themes and research areas in the study of human-environment interaction in prehistory. Environmental Archaeology, [DOI: 10.1080/14614103.2018.1560932](https://www.tandfonline.com/doi/full/10.1080/14614103.2018.1560932).
+- **Carleton, W.**, and Collard, M. 2019. Recent major themes and research areas in the study of human-environment interaction in prehistory. Environmental Archaeology, [DOI: 10.1080/14614103.2018.1560932](https://www.tandfonline.com/doi/full/10.1080/14614103.2018.1560932).
 
-- Carleton, W., Campbell, D., and Collard, M. 2018. Chronological uncertainty severely complicates the identification of cyclical processes in radiocarbon-dated time-series. Palaeogeography, Palaeoclimatology, Palaeoecology 506:22-29. [DOI: 10.1016/j.palaeo.2018.06.002](https://www.sciencedirect.com/science/article/pii/S0031018218302165)
+- **Carleton, W.**, Campbell, D., and Collard, M. 2018. Chronological uncertainty severely complicates the identification of cyclical processes in radiocarbon-dated time-series. Palaeogeography, Palaeoclimatology, Palaeoecology 506:22-29. [DOI: 10.1016/j.palaeo.2018.06.002](https://www.sciencedirect.com/science/article/pii/S0031018218302165)
 
-- Carleton, W., Campbell, D., and Collard, M. 2018. Radiocarbon dating uncertainty and the reliability of the PEWMA method of time-series analysis for research on long-term human-environment interaction. PloS ONE 13(1): e0191055. [DOI: 10.1371/journal.pone.0191055](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191055)
+- **Carleton, W.**, Campbell, D., and Collard, M. 2018. Radiocarbon dating uncertainty and the reliability of the PEWMA method of time-series analysis for research on long-term human-environment interaction. PloS ONE 13(1): e0191055. [DOI: 10.1371/journal.pone.0191055](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191055)
 
-- Carleton, W., Campbell, D., and Collard, M. 2017. Increasing temperature exacerbated Classic Maya conflict over the long term. Quaternary Science Reviews 163:209–218. [DOI: 10.1016/j.quascirev.2017.02.022](https://www.sciencedirect.com/science/article/pii/S0277379116304292)
+- **Carleton, W.**, Campbell, D., and Collard, M. 2017. Increasing temperature exacerbated Classic Maya conflict over the long term. Quaternary Science Reviews 163:209–218. [DOI: 10.1016/j.quascirev.2017.02.022](https://www.sciencedirect.com/science/article/pii/S0277379116304292)
 
-- Carleton, W., Cheong, K., Savage, D., Barry, J., Conolly, J., Iannone, G. 2017. A Comprehensive Test of the Locally-Adaptive Model of Archaeological Potential (LAMAP). Journal of Archaeological Science: Reports, 11:59–68. [DOI: 10.1016/j.jasrep.2016.11.027](https://www.sciencedirect.com/science/article/pii/S2352409X16303005)
+- **Carleton, W.**, Cheong, K., Savage, D., Barry, J., Conolly, J., Iannone, G. 2017. A Comprehensive Test of the Locally-Adaptive Model of Archaeological Potential (LAMAP). Journal of Archaeological Science: Reports, 11:59–68. [DOI: 10.1016/j.jasrep.2016.11.027](https://www.sciencedirect.com/science/article/pii/S2352409X16303005)
 
-- Carleton, W., Campbell, D., and Collard, M. 2014. A reassessment of the impact of drought cycles on the Classic Maya. Quaternary Science Reviews 105:151–161. [DOI: 10.1016/j.quascirev.2014.09.032](https://www.sciencedirect.com/science/article/pii/S0277379114003862)
+- **Carleton, W.**, Campbell, D., and Collard, M. 2014. A reassessment of the impact of drought cycles on the Classic Maya. Quaternary Science Reviews 105:151–161. [DOI: 10.1016/j.quascirev.2014.09.032](https://www.sciencedirect.com/science/article/pii/S0277379114003862)
 
-- Carleton, W., Conolly, J., and Collard, M. 2013. Corporate kin-groups, social memory, and “history houses”? A quantitative test of recent reconstructions of social organization and building function at Çatalhöyük during the PPNB. Journal of Archaeological Science, 40(4):1816–1822. [DOI: 10.1016/j.jas.2012.11.011](https://www.sciencedirect.com/science/article/pii/S0305440312005055)
+- **Carleton, W.**, Conolly, J., and Collard, M. 2013. Corporate kin-groups, social memory, and “history houses”? A quantitative test of recent reconstructions of social organization and building function at Çatalhöyük during the PPNB. Journal of Archaeological Science, 40(4):1816–1822. [DOI: 10.1016/j.jas.2012.11.011](https://www.sciencedirect.com/science/article/pii/S0305440312005055)
 
-- Carleton, W., Conolly J., and Iannone G. 2012. A Locally-Adaptive Model of Archaeological Potential (LAMAP). Journal of Archaeological Science, 39(11):3371–3385. [DOI: 10.1016/j.jas.2012.05.022](https://www.sciencedirect.com/science/article/pii/S0305440312002233)
+- **Carleton, W.**, Conolly J., and Iannone G. 2012. A Locally-Adaptive Model of Archaeological Potential (LAMAP). Journal of Archaeological Science, 39(11):3371–3385. [DOI: 10.1016/j.jas.2012.05.022](https://www.sciencedirect.com/science/article/pii/S0305440312002233)
+
+#### Edited Volumes
+
+- Willett, P.T., **Carleton, W.C.**, Torun, E., Vandam, R., Poblome, J., 2021. Modeling Archaeological Potential in Southwestern Anatolia: A Synthesis of Three Decades of Archaeological Survey and a Tool for Planning Sustainable Futures in the Historic Landscape of Ancient Sagalassos (SW Turkey). In K. Garstki (ed.) Critical Archaeology in the Digital Age. Ch 4.UCLA Cotsen Institute of Archaeology Press, Los Angeles, CA
+
+- Willett, P.T., Vandam, R., **Carleton, W.C.**, & Poblome, J., 2020. The 2018 Survey of Archaeological Potential at Sagalassos. Arastιrma Sonuçlarι Toplantιsι Vol. 37. Pp 380-385. Ankara
 
 #### Conference Presentations
-- Carleton, W., Campbell, D., Collard, M., 2017. “Chronological uncertainty severely undermines our ability to identify cycles in palaeoenvironmental records” paper presented at the 23rd Annual Meeting of the European Association of Archaeologists in Maastricht, Netherlands.
+- **Carleton, W.**, Campbell, D., Collard, M., 2017. “Chronological uncertainty severely undermines our ability to identify cycles in palaeoenvironmental records” paper presented at the 23rd Annual Meeting of the European Association of Archaeologists in Maastricht, Netherlands.
 
-- Carleton, W., Campbell, D., Collard, M., 2017. “Chronological uncertainty severely undermines our ability to identify cycles in archaeological and palaeoenvironmental records” paper presented at the 82nd Annual Meeting of the Society for American Archaeology in Vancouver, BC.
+- **Carleton, W.**, Campbell, D., Collard, M., 2017. “Chronological uncertainty severely undermines our ability to identify cycles in archaeological and palaeoenvironmental records” paper presented at the 82nd Annual Meeting of the Society for American Archaeology in Vancouver, BC.
 
 - Kong, C., W. Carleton, D. Savage, J. Conolly, G. Ianonne, J. Barry, 2015. “Testing a Locally-Adaptive Model	of Archaeological Potential (LAMAP) to Assess Ancient Maya Settlement Location and Density in Belize’s North Vaca Plateau,” paper presented at the 80th Annual Meeting of the Society for American Archaeology in San Francisco, CA.
 
-- Carleton, W., M. Collard, and D. Campbell. 2015. “Parched and prickly or hot and bothered? Comparing drought and temperature as potential drivers of Classic Maya Conflict,” paper presented at the 80th Annual Meeting of the Society for American Archaeology in San Francisco, CA.
+- **Carleton, W.**, M. Collard, and D. Campbell. 2015. “Parched and prickly or hot and bothered? Comparing drought and temperature as potential drivers of Classic Maya Conflict,” paper presented at the 80th Annual Meeting of the Society for American Archaeology in San Francisco, CA.
 
-- Carleton, W., M. Collard, and D. Campbell. 2015. “Parched and prickly or hot and bothered? Comparing drought and temperature as potential drivers of Classic Maya Conflict,” paper presented at the 4th annual Human Evolutionary Studies Program Symposium, Burnaby, BC.
+- **Carleton, W.**, M. Collard, and D. Campbell. 2015. “Parched and prickly or hot and bothered? Comparing drought and temperature as potential drivers of Classic Maya Conflict,” paper presented at the 4th annual Human Evolutionary Studies Program Symposium, Burnaby, BC.
 
-- Carleton, W., M. Collard, D. Campbell, and J. Munson. 2013. "Debating drought cycles and their influence on Maya society," paper presented at the 78th annual meeting of the Society for American Archaeology, Honolulu, HI.
+- **Carleton, W.**, M. Collard, D. Campbell, and J. Munson. 2013. "Debating drought cycles and their influence on Maya society," paper presented at the 78th annual meeting of the Society for American Archaeology, Honolulu, HI.
 
-- Carleton, W., J. Conolly, and M. Collard. 2012. "Socioeconomic structure at Catalhoyuk: debating corporate kin-groups," paper presented at the 77th annual meeting of the Society for American Archaeology, Memphis, TN.
+- **Carleton, W.**, J. Conolly, and M. Collard. 2012. "Socioeconomic structure at Catalhoyuk: debating corporate kin-groups," paper presented at the 77th annual meeting of the Society for American Archaeology, Memphis, TN.
 
 ---
 ### Teaching and Supervision
