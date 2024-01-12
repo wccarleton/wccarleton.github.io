@@ -4,14 +4,14 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Untitled\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Untitled\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTesting\n\n\n\n\n\n\nCarleton\n\n\nDec 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "W. Christopher Carleton",
+    "objectID": "posts/nbtest.html",
+    "href": "posts/nbtest.html",
+    "title": "Testing",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Imports\n\n\nCode\nimport numpy as np\nimport plotly as plt\n\n\n\n\nDo stuff\n\n\nCode\nr = 1\nA = np.pi * r**2"
   },
   {
     "objectID": "about.html",
@@ -19,6 +19,13 @@
     "title": "About Me",
     "section": "",
     "text": "I’m an archaeologist."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "W. Christopher Carleton",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "posts/testing.html",
