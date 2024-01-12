@@ -15,5 +15,8 @@ format:
     css: styles.css
     toc: true
 
+theme:
+  light: flatly
+  dark: darkly
 
 
