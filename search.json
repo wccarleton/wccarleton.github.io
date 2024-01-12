@@ -11,21 +11,7 @@
     "href": "posts/nbtest.html",
     "title": "Testing",
     "section": "",
-    "text": "Imports\n\n\nCode\nimport numpy as np\nimport plotly as plt\n\n\n\n\nDo stuff\n\n\nCode\nr = 1\nA = np.pi * r**2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I’m an archaeologist."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "W. Christopher Carleton",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Imports\n\n\nCode\nimport numpy as np\nimport plotly as plt\n\n\n\n\nDo stuff\n\n\nCode\nr = 1\nA = np.pi * r**2\nA\n\n\n3.141592653589793"
   },
   {
     "objectID": "posts/testing.html",
