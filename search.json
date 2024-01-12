@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Untitled\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "W. Christopher Carleton",
@@ -12,5 +19,12 @@
     "title": "About Me",
     "section": "",
     "text": "I’m an archaeologist."
+  },
+  {
+    "objectID": "posts/testing.html",
+    "href": "posts/testing.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "blahablh"
   }
 ]

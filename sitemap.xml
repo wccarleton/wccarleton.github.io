@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://wccarleton.github.io/posts.html</loc>
+    <lastmod>2024-01-12T11:04:53.146Z</lastmod>
+  </url>
+  <url>
     <loc>https://wccarleton.github.io/index.html</loc>
-    <lastmod>2024-01-12T10:31:09.843Z</lastmod>
+    <lastmod>2024-01-12T11:06:39.955Z</lastmod>
   </url>
   <url>
     <loc>https://wccarleton.github.io/about.html</loc>
     <lastmod>2024-01-12T10:31:09.842Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wccarleton.github.io/posts/testing.html</loc>
+    <lastmod>2024-01-12T11:05:35.599Z</lastmod>
   </url>
 </urlset>
