@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.542">
+<meta name="generator" content="quarto-1.4.543">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>WC Carleton -</title>
+<title>WC Carleton - W. Christopher Carleton</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,10 +30,11 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -68,9 +69,70 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-tiles',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-tiles"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="WC Carleton - W. Christopher Carleton">
+<meta property="og:description" content="">
+<meta property="og:site_name" content="WC Carleton">
 </head>
 
 <body class="nav-fixed">
@@ -96,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About Me</span></a>
+<span class="menu-text">Curriculum Vitae</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./posts.html"> 
@@ -115,23 +177,82 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+  <ul>
+  <li><a href="#recent-papers" id="toc-recent-papers" class="nav-link active" data-scroll-target="#recent-papers">Recent Papers</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="assets/palaeodatasci.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
+<div class="quarto-about-jolla content">
+  <img src="profile.jpg" class="about-image
+  round " style="height: 15em; width: 15em;">
+ <header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">W. Christopher Carleton</h1>
 </div>
+<div class="quarto-title-meta">
+  </div>
+</header><main class="content" id="quarto-document-content">
+
+<p>I am an archaeologist and data scientist with a <a href="https://summit.sfu.ca/item/17407">PhD in Archaeology</a> from <a href="https://www.sfu.ca/archaeology.html">Simon Fraser University</a> in Canada. My primary research interests lie in long-term human-environment dynamics and palaeo data science. This includes work involving statistics, time-series analysis, Bayesian modelling, agent-based simulation, scientific software development, Big Data applications, Machine Learning, and geospatial analysis (especially archaeological predictive modelling). My expertise is demonstrated through my scientific contributions in computational and quantitative methods for archaeological research (see my CV), and my research has been highly varied in terms of region and time period. Among my 27 high-quality peer-reviewed articles (13 as fist author), I have conducted research on the Neolithic at Çatalhöyük and Sagalassos in Turkey, the Maltese Neolithic Temple Period, the Classic Maya Period in the Maya Lowlands of Mesoamerica, 1<sup>st</sup> Millennium European history, Late Quaternary Arabia, and the Angkorian Period in Cambodia. My work on these topics and more has appeared in a dozen top-quality peer-reviewed journals, including Nature. I am interminably curious and interested in collaboration with other curious people, so feel free to reach out if your project could benefit from my expertise and experience!</p>
+<p>You can find my research at: <a href="https://orcid.org/0000-0001-7463-8638">ORCID</a> and <a href="https://scholar.google.ca/citations?user=0ZG-6CsAAAAJ&amp;hl=en">Google Scholar</a>.</p>
+<section id="recent-papers" class="level2">
+<h2 data-anchor-id="recent-papers">Recent Papers</h2>
 
 
-
-</main> <!-- /main -->
+</section>
+<div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
+<div class="list grid" style="column-gap: 10px;">
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="0">
+    <div class="card-header py-1 px-2 border-bottom border-1 bg-light">
+      <small class="card-text inline-block">
+        <a href="https://www.nature.com/articles/s44284-023-00014-4" class="listing-title">Using urban pasts to speak to urban presents in the Anthropocene</a>
+      </small>
+    </div>
+    <a href="https://www.nature.com/articles/s44284-023-00014-4">
+      <img src="./assets/nat_cities.png" alt="" class="card-img-top">
+    </a>
+  </div>
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="1">
+    <div class="card-header py-1 px-2 border-bottom border-1 bg-light">
+      <small class="card-text inline-block">
+        <a href="https://www.frontiersin.org/articles/10.3389/fearc.2023.1208985/full" class="listing-title">Fire-human-climate interactions in the Bolivian Amazon rainforest ecotone from the Last Glacial Maximum to late Holocene</a>
+      </small>
+    </div>
+    <a href="https://www.frontiersin.org/articles/10.3389/fearc.2023.1208985/full">
+      <img src="./assets/fire.jpg" alt="" class="card-img-top">
+    </a>
+  </div>
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="2">
+    <div class="card-header py-1 px-2 border-bottom border-1 bg-light">
+      <small class="card-text inline-block">
+        <a href="https://www.nature.com/articles/s41598-023-44875-0" class="listing-title">Bayesian regression versus machine learning for rapid age estimation of archaeological features identified with lidar at Angkor</a>
+      </small>
+    </div>
+    <a href="https://www.nature.com/articles/s41598-023-44875-0">
+      <img src="./assets/angkor.png" alt="" class="card-img-top">
+    </a>
+  </div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> 
+  <hr class="about-sep">
+   <div class="about-links">
+  <a href="https://github.com/wccarleton" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>
+  <a href="https://scholar.google.ca/citations?user=0ZG-6CsAAAAJ&amp;hl=en" class="about-link" rel="" target="">
+    <i class="bi bi-feather"></i>
+     <span class="about-link-text">Google Scholar</span>
+  </a>
+</div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -296,13 +417,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
@@ -437,7 +551,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {
