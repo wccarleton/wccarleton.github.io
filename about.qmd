@@ -1,5 +1,170 @@
 ---
-title: "About Me"
+title: "Curriculum Vitae"
 ---
+## W. Christopher Carleton, Ph.D
 
+Website: [https://wccarleton.me](https://wccarleton.me)  
+GitHub: [github.com/wccarleton](https://github.com/wccarleton)  
+Email: carleton@gea.mpg.de
 
+**Extreme Events Research Group**  
+Max Planck Institute of Geoanthropology  
+Kahlaische Str. 10  
+07745 Jena, Germany
+
+## Highlights
+
+### Keywords
+**Archaeologist; Data Scientist; Quantitative and Qualitative Research;
+Software-for-Science Developer**
+
+### Analytical Expertise
+- Statistics; Regression Models; Time-Series Analysis; Remote Sensing
+- Geographic Information Science/Software/Systems; Spatial Analysis
+- Agent-based Models; Computational Simulation; High-Performance Computing; Chronological Modelling
+
+### Programming Languages
+- R
+- Python
+- BASH
+
+### Publication Record
+- 27 peer-reviewed publications (13 as first author) in top journals including Nature and Nature Communications
+
+### Teaching
+- Two undergraduate courses, including curriculum development, on Archaeological Science/Data Science
+- 5 semesters of undergraduate teaching assistant experience
+- Supervisory committee member for two graduate students, one MA and one PhD
+- Certified Carpentries Instructor (data science and software for science) [carpentries.org](https://carpentries.org)
+
+### Funding
+- $368,250 CAD in awards, fellowships, and grants
+
+### Archaeological Field Experience
+- 18 weeks, field schools and academic excavation
+- 20 months, cultural resource management (survey, test-pitting, excavation)
+
+## Education
+
+- (2011-2017) PhD in Archaeology, Simon Fraser University, Burnaby, BC, Canada: Archaeological and Palaeoenvironmental Time Series Analysis
+- (2008-2010) MA in Anthropology, Trent University, Peterborough, ON, Canada: Collapse of the Pre-Pottery Neolithic ‘B’ in Southwest Asia
+- (2001-2005) BA Honours in Classical and Near Eastern Archaeology, University of Saskatchewan, Saskatoon, SK, Canada
+
+## Awards and Fellowships
+
+- 2017-2019 Human Evolutionary Studies Program Post-Doctoral Fellowship, Simon Fraser University ($90,000 CAD)
+- 2016 Mitacs PhD Fellowship, Simon Fraser University and the University of British Columbia ($60,000 CAD)
+- 2015-2016 Simon Fraser University Department of Archaeology PhD Fellowship ($6,250 CAD)
+- 2014-2015 Simon Fraser University Human Evolutionary Studies Program PhD Fellowship ($12,250 CAD)
+- 2014-2015 Simon Fraser University Department of Archaeology PhD Fellowship ($6,250 CAD)
+- 2011-2014 Social Sciences and Humanities Research Council Joseph-Armand Bombardier Canadian Graduate Scholarship ($105,000 CAD)
+- 2011-2014 Simon Fraser University Provost Prize ($15,000 CAD)
+- 2010 University College London Overseas Research Scholarship (Declined) ($68,000 CAD)
+- 2009 Trent University, William and Geoffrey Hamblin Memorial Graduate Award ($500 CAD)
+
+## Publications and Academic Contributions
+
+### Peer-Reviewed Journal Articles
+
+#### 2024
+- Roberts, P., **Carleton, W.**, Amano, N., Findley D.M., Hamilton, R., Maezumi, S.Y., Winkelmann, R., Laubichler, M.D., Renn, J. (2024) Using urban pasts to speak to urban presents in the Anthropocene. Nature Cities [DOI: 10.1038/s44284-023-00014-4](https://doi.org/10.1038/s44284-023-00014-4).
+- Willett, P.T., **Carleton, W.**, Nils Broothaerts, N., Vandam, R. (accepted) Changing with the Times: From agricultural potential to spatially explicit reconstructions of past land use. Holocene [DOI: TBD](#)
+
+#### 2023
+- Maezumi, Y.S., Power, M.J., Smith, R.J., McLauchlan, K.K., Brunelle, A.R., **Carleton, W.C.**, Kay, A.U., Roberts, P., Mayle, F.E. (2023) Fire-human-climate interactions in the Bolivian Amazon rainforest ecotone from the Last Glacial Maximum to late Holocene. Frontiers in Environmental Archaeology [DOI: 10.3389/fearc.2023.1208985](https://doi.org/10.3389/fearc.2023.1208985)
+- **Carleton, W.**, Klassen, S., Niles-Weed, J., Evans, D., Roberts, P., Groucutt, H. (2023) Bayesian regression versus machine learning for rapid age estimation of archaeological features identified in lidar scans at Angkor. Scientific Reports [DOI: 10.1038/s41598-023-44875-0](https://doi.org/10.1038/s41598-023-44875-0)
+- Patalano, R., Arthur, C., **Carleton, W.**, Challis, S., Dewar, G., Gayantha, K., Gleixner, G., Ilgner, J., Lucas, M., Marzo, M., Mokhachane, R., Pazan, K., Spurite, D., Morley, M., Parker, A., Mitchell, P., Stewart, B., Roberts, P. Ecological stability of Late Pleistocene-to-Holocene Lesotho, southern Africa, facilitated human upland habitation. Nature Communications Earth and Environment [DOI: 10.1038/s43247-023-00784-8](https://doi.org/10.1038/s43247-023-00784-8)
+
+#### 2022
+- Stewart, M., **Carleton, W.**, Groucutt, H. (2022) Extreme events in biological, societal, and earth sciences: a systematic review of the literature. Frontiers in Earth Science [DOI: 10.3389/feart.2022.786829](https://doi.org/10.3389/feart.2022.786829)
+- Stewart, M., **Carleton, W.**, Groucutt, H. (2022) Reply to: Accurate population proxies do not exist between 11.7 and 15 ka in North America. Nature Communications [DOI: 10.1038/s41467-022-32356-3](https://doi.org/10.1038/s41467-022-32356-3)
+- Rondeau, R., **Carleton, W.**, Collard, M., Driver, J. (2022) Does the Locally-Adaptive Model of Archaeological Potential (LAMAP) work for hunter-gatherer sites? A test using data from the Tanana Valley, Alaska. PLoS ONE [DOI: 10.1371/journal.pone.0265597](https://doi.org/10.1371/journal.pone.0265597)
+
+#### 2022
+- Stewart, M., **Carleton, W.**, Groucutt, H. (2022) Extreme events in biological, societal, and earth sciences: a systematic review of the literature. Frontiers in Earth Science [DOI: 10.3389/feart.2022.786829](https://doi.org/10.3389/feart.2022.786829)
+- Stewart, M., **Carleton, W.**, Groucutt, H. (2022) Reply to: Accurate population proxies do not exist between 11.7 and 15 ka in North America. Nature Communications [DOI: 0.1038/s41467-022-32356-3](https://doi.org/0.1038/s41467-022-32356-3)
+- Rondeau, R., **Carleton, W.**, Collard, M., Driver, J. (2022) Does the Locally-Adaptive Model of Archaeological Potential (LAMAP) work for hunter-gatherer sites? A test using data from the Tanana Valley, Alaska. PLoS ONE [DOI: 10.1371/journal.pone.0265597](https://doi.org/10.1371/journal.pone.0265597)
+- Groucutt, H., **Carleton, W.**, Fenech, K., Gauci, R., Grima, R., Scerri, E., Stewart, M., and Vella, N. (2022) The 4.2 ka event and the end of the Maltese ’Temple Period’. Frontiers in Earth Science [DOI: 10.3389/feart.2021.771683](https://doi.org/10.3389/feart.2021.771683)
+
+#### 2021
+- **Carleton, W.**, Campbell, D., Collard, M. (2021) A reassessment of the impact of temperature change on European conflict during the second millennium CE using a bespoke Bayesian time-series model. Climatic Change. [DOI: 10.1007/s10584-021-03022-2](https://doi.org/10.1007/s10584-021-03022-2)
+- **Carleton, W.**, Stewart, M., Collard, M., Groucutt, H. (2021) A Song of Neither Ice nor Fire: Temperature Extremes had No Impact on Violent Conflict Among European Societies During the 2nd Millennium CE. Frontiers in Earth Science. [DOI: 10.3389/feart.2021.769107](https://doi.org/10.3389/feart.2021.769107)
+- Collard, M., **Carleton, W.**, Campbell, D. (2021) Rainfall, temperature, and Classic Maya conflict: A comparison of hypotheses using Bayesian time-series analysis. PLoS One, 16(7):e0253043. [DOI: 10.1371/journal.pone.0253043](https://doi.org/10.1371/journal.pone.0253043)
+- Groucutt, H. and **Carleton, W.** (2021) Mass-kill hunting and Late Quaternary ecology: New insights into the ‘desert kite’ phenomenon in Arabia. Journal of Archaeological Science: Reports. [DOI: 10.1016/j.jasrep.2021.102995](https://doi.org/10.1016/j.jasrep.2021.102995)
+- Groucutt, H., White, T., Scerri, E.M.L., Andrieux, E., Clark-Wilson, R., Breeze, P.S., Armitage, S.J., Stewart, M., Drake, N., Louys, J., Price, G., Duval, M., Parton, A., Candy, I., **Carleton, W.**, Clark-Balzan, L., Shipton, C., Jennings, R.P., Zahir, M., Blinkhorn, J., Blockley, S., Al-Omari, A., Alsharekh, A., Petraglia, M.D. (2021) Multiple hominin dispersals into Southwest Asia over the last 400,000 years. Nature, 597(7876):376-380. [DOI: 10.1038/s41586-021-03863-y](https://doi.org/10.1038/s41586-021-03863-y)
+- Stewart, M., **Carleton, W.**, Groucutt, H. (2021) Climate change, not human population growth, correlates with the Late Pleistocene megafauna extinctions in North America. Nature Communications. [DOI: 10.1038/s41467-021-21201-8](https://dx.doi.org/10.1038/s41467-021-21201-8)
+
+#### 2020
+- **Carleton W.** and Groucutt, H. (2020) Sum things are not what they seem: Problems with point-wise interpretations and quantitative analyses of proxies based on aggregated radiocarbon dates. The Holocene. [DOI: 10.1177/0959683620981700](https://dx.doi.org/10.1177/0959683620981700)
+- **Carleton, W.** (2020) Evaluating Bayesian radiocarbon-dated event-count (REC) models for the study of long-term human and environmental processes. Journal of Quaternary Science. [DOI: 10.1002/jqs.3256](https://onlinelibrary.wiley.com/doi/full/10.1002/jqs.3256)
+
+#### 2019 and older
+- **Carleton, W.**, McCauley, B., Costopolous, A., Collard, M. (2019) Agent-based model experiments cast doubt on Dunnell's adaptive waste explanation for cultural elaboration. Science and Technology in Archaeology (STAR). [DOI: 10.1080/20548923.2019.1647648](https://www.tandfonline.com/doi/full/10.1080/20548923.2019.1647648)
+- **Carleton, W.**, and Collard, M. (2019) Recent major themes and research areas in the study of human-environment interaction in prehistory. Environmental Archaeology. [DOI: 10.1080/14614103.2018.1560932](https://www.tandfonline.com/doi/full/10.1080/14614103.2018.1560932)
+- **Carleton, W.**, Campbell, D., Collard, M. (2018) Chronological uncertainty severely complicates the identification of cyclical processes in radiocarbon-dated time-series. Palaeogeography, Palaeoclimatology, Palaeoecology 506:22-29. [DOI: 10.1016/j.palaeo.2018.06.002](https://www.sciencedirect.com/science/article/pii/S0031018218302165)
+- **Carleton, W.**, Campbell, D., Collard, M. (2018) Radiocarbon dating uncertainty and the reliability of the PEWMA method of time-series analysis for research on long-term human-environment interaction. PloS ONE 13(1): e0191055. [DOI: 10.1371/journal.pone.0191055](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191055)
+- **Carleton, W.**, Campbell, D., Collard, M. (2017) Increasing temperature exacerbated Classic Maya conflict over the long term. Quaternary Science Reviews 163:209--218. [DOI: 10.1016/j.quascirev.2017.02.022](https://www.sciencedirect.com/science/article/pii/S0277379116304292)
+- **Carleton, W.**, Cheong, K., Savage, D., Barry, J., Conolly, J., Iannone, G. (2017) A Comprehensive Test of the Locally-Adaptive Model of Archaeological Potential (LAMAP). Journal of Archaeological Science: Reports, 11:59--68. [DOI: 10.1016/j.jasrep.2016.11.027](https://www.sciencedirect.com/science/article/pii/S2352409X16303005)
+- **Carleton, W.**, Campbell, D., Collard, M. (2014) A reassessment of the impact of drought cycles on the Classic Maya. Quaternary Science Reviews 105:151--161. [DOI: 10.1016/j.quascirev.2014.09.032](https://www.sciencedirect.com/sc
+- **Carleton, W.**, Conolly, J., and Collard, M. (2013) Corporate kin-groups, social memory, and ``history houses''? A quantitative test of recent reconstructions of social organization and building function at Çatalhöyük during the PPNB. Journal of Archaeological Science, 40(4):1816–1822. [DOI: 10.1016/j.jas.2012.11.011](https://www.sciencedirect.com/science/article/pii/S0305440312005055)
+- **Carleton, W.**, Conolly J., and Iannone G. (2012) A Locally-Adaptive Model of Archaeological Potential (LAMAP). Journal of Archaeological Science, 39(11):3371–3385. [DOI: 10.1016/j.jas.2012.05.022](https://www.sciencedirect.com/science/article/pii/S0305440312002233)
+
+### Peer-Reviewed Book Chapters
+- Vandam, R., Willett, P., **Carleton, W.**, Poblome, J. (2021) Get Going with Survey Legacy Data. The 2018 and 2019 Archaeological Survey Results from the Sagalassos Archaeological Research Project, in *The Archaeology of Anatolia Volume IV: Recent Discoveries (2018–2020)*. Cambridge Scholars Publishing. [Online record](https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS3646135&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&lang=en_US&fromSitemap=1)
+
+### Book Chapters
+- Willett, P., **Carleton, W.**, Torun, F. E., Vandam, R., Poblome, J., and Garstki, K. (Accepted/In press). Modeling Archaeological Potentials in Southwest Anatolia. A Tool for Planning Sustainable Futures at Ancient Sagalassos. In Critical Archaeology in the Digital Age Cotsen Press. [Online record](https://researchportal.vub.be/en/publications/modeling-archaeological-potentials-in-southwest-anatolia-a-tool-f)
+
+### Conference Presentations
+- **Carleton, W.**, Campbell, D., Collard, M., 2017. "Chronological uncertainty severely undermines our ability to identify cycles in palaeoenvironmental records" paper presented at the 23rd Annual Meeting of the European Association of Archaeologists in Maastricht, Netherlands.
+- **Carleton, W.**, Campbell, D., Collard, M., 2017. "Chronological uncertainty severely undermines our ability to identify cycles in archaeological and palaeoenvironmental records" paper presented at the 82nd Annual Meeting of the Society for American Archaeology in Vancouver, BC.
+- Kong, C., **W. Carleton**, D. Savage, J. Conolly, G. Ianonne, J. Barry, 2015. "Testing a Locally-Adaptive Model of Archaeological Potential (LAMAP) to Assess Ancient Maya Settlement Location and Density in Belize's North Vaca Plateau," paper presented at the 80th Annual Meeting of the Society for American Archaeology in San Francisco, CA.
+- **Carleton, W.**, M. Collard, and D. Campbell. 2015. "Parched and prickly or hot and bothered? Comparing drought and temperature as potential drivers of Classic Maya Conflict," paper presented at the 80th Annual Meeting of the Society for American Archaeology in San Francisco, CA.
+- **Carleton, W.**, M. Collard, and D. Campbell. 2015. "Parched and prickly or hot and bothered? Comparing drought and temperature as potential drivers of Classic Maya Conflict," paper presented at the 4th annual Human Evolutionary Studies Program Symposium, Burnaby, BC.
+- **Carleton, W.**, M. Collard, D. Campbell, and J. Munson. 2013. "Debating drought cycles and their influence on Maya society," paper presented at the 78th annual meeting of the Society for American Archaeology, Honolulu, HI.
+- **Carleton, W.**, J. Conolly, and M. Collard. 2012. "Socioeconomic structure at Catalhoyuk: debating corporate kin-groups," paper presented at the 77th annual meeting of the Society for American Archaeology, Memphis, TN.
+
+## Teaching and Supervision
+
+### Courses Taught
+- 2023 Summer Session: Archaeological Data Science, University of Cologne, Germany
+- 2023 Summer Session (co-taught): Archaeological Science and Statistics, Friedrich Schiller University, Jena, Germany
+
+### Students Supervised
+- 2022-present: PhD (in process) committee member for [Amy Hatton](https://www.shh.mpg.de/person/116282/1437297), Extreme Events Research Group, Max Planck Institute of Geoanthropology
+- 2019-2021: MA (defense passed) committee member for [Rob Rondeau](https://www.sfu.ca/archaeology/graduate/grad_students/rondeau.html), Department of Archaeology, Simon Fraser University
+
+### Teaching Assistance
+- 2016: ARCH131 Human Origins, Department of Archaeology, Simon Fraser University
+- 2015: ARCH131 Human Origins, Department of Archaeology, Simon Fraser University
+- 2012: ARCH100 Ancient Peoples and Places, Simon Fraser University
+- 2009 (Fall/Winter): ARCH400 Archaeological Method and Theory, Department of Anthropology, Trent University
+
+## Professional Involvement
+
+### Academic Administrative Service
+
+- 2023-present: Ombudsperson, Max Planck Institute of Geoanthropology
+
+### Editorial Experience
+
+- 2018-Present: [Data-in-Brief](https://www.journals.elsevier.com/data-in-brief/)
+- Section Editor: Social Sciences (2019-2021), [Data-in-Brief](https://www.journals.elsevier.com/data-in-brief/)
+- 2014-Present: [Journal of Archaeological Science: Reports](https://www.journals.elsevier.com/journal-of-archaeological-science-reports)
+
+## Employment History
+
+- 2019-Present: Post-doctoral researcher, [Extreme Events Research Group](http://www.ice.mpg.de/ext/index.php?id=extreme-events), Max Planck Institute for Chemical Ecology, Jena, Germany
+- 2017-2019: Post-doctoral researcher in the Department of Archaeology at Simon Fraser University
+- 2015-2017: Technology Intern and Regional Editor for the Americas, [Database of Religious History](http://religiondatabase.org/landing/)
+- 2013-2014: Research Assistant for the Department of Archaeology, Simon Fraser University
+- 2011: Research Assistant (Field) for the Department of Anthropology, Trent University
+- 2010-2011: Research Assistant for the Department of Anthropology, Trent University
+- 2008-2009: Research Assistant for the Department of Anthropology, Trent University
+- 2005-2007: Arcas Consulting Archaeologists - Staff Archaeologist, Fort St. John, Northern British Columbia (Cultural Resource Management)
+
+## Academic Archaeological Field Experience
+
+- 2011: 6 weeks, survey and total-station mapping, Ka'Kabish, Orange Walk, Belize
+- 2009: 6 weeks, excavation at Çatalhöyük, Konya, Turkey
+- 2005: 6-week field school, Wanuskewin Heritage Park, Saskatchewan, Canada

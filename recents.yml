@@ -1,0 +1,10 @@
+- tiles:
+    - title: Using urban pasts to speak to urban presents in the Anthropocene
+      href: https://www.nature.com/articles/s44284-023-00014-4
+      thumbnail: /assets/nat_cities.png
+    - title: Fire-human-climate interactions in the Bolivian Amazon rainforest ecotone from the Last Glacial Maximum to late Holocene
+      href: https://www.frontiersin.org/articles/10.3389/fearc.2023.1208985/full
+      thumbnail: /assets/fire.jpg
+    - title: Bayesian regression versus machine learning for rapid age estimation of archaeological features identified with lidar at Angkor
+      href: https://www.nature.com/articles/s41598-023-44875-0
+      thumbnail: /assets/angkor.png
