@@ -29,7 +29,7 @@ Software-for-Science Developer**
 - BASH
 
 ### Publication Record
-- 27 peer-reviewed publications (13 as first author) in top journals including Nature and Nature Communications
+- 35 peer-reviewed publications (15 as first author) in top journals including Nature, Nature Cities, and Nature Communications
 
 ### Teaching
 - Two undergraduate courses, including curriculum development, on Archaeological Science/Data Science
@@ -41,7 +41,8 @@ Software-for-Science Developer**
 - $368,250 CAD in awards, fellowships, and grants
 
 ### Archaeological Field Experience
-- 18 weeks, field schools and academic excavation
+- directing and managing archaeological field projects in Cambodia and Sri Lanka
+- academic excavation and survey in Belize, Turkey, and Canada
 - 20 months, cultural resource management (survey, test-pitting, excavation)
 
 ## Education
@@ -65,6 +66,17 @@ Software-for-Science Developer**
 ## Publications and Academic Contributions
 
 ### Peer-Reviewed Journal Articles
+
+#### 2026
+- Patalano, R., Miller, J., Shipton, C., **Carleton, W.**, Gayantha, K., Gleixner, G., et al. (2026) Plant Wax Biomarker Evidence for Late Pleistocene-to-Holocene Forest Resilience and Ecological Refugium Dynamics at Panga ya Saidi, Coastal Kenya. 
+- **Carleton, W.C.**, Lawrence, D., Brotherson, D., Ebert, C., Lobo, J., Ortman, S.G., et al. (2026) Making comparative archaeological and historical urbanism rigorous and open access through the URBank data platform. Antiquity, 1–7.
+- Scerri, E.M.L., Blinkhorn, J., Groucutt, H.S., Stewart, M., Candy, I., Allué, E., et al. (2026) Hunter-gatherer sea voyages extended to remotest Mediterranean islands. Nature, 641, 137–143. [DOI: 10.1038/s41586-025-08780-y](https://doi.org/10.1038/s41586-025-08780-y)
+
+#### 2025
+- Stewart, M., Peters, C., Ziegler, M.J., **Carleton, W.C.**, Roberts, P., Boivin, N., et al. (2025) The state of the late Quaternary megafauna extinction debate: a systematic review and analysis. Frontiers in Mammal Science, 4, 1678231.
+- **Carleton, W.C.**, Elton, H., Miranda, W., Work, I., Safarik, D., Winkelmann, R., et al. (2025) Parallel scaling of elite wealth in ancient Roman and modern cities with implications for understanding urban inequality. Nature Cities.
+- Ziegler, M.J., Robinson, M., Aceituno, F.J., Morcote-Ríos, G., Becerra-Valdivia, L., et al. (2025) Human dietary diversity in the Colombian Andes at the terminal Pleistocene-late Holocene sites Tequendama and Aguazuque. iScience, 28(1).
+- Roberts, P., Los, S., **Carleton, W.C.**, Winkelmann, R., Maezumi, S.Y. (2025) ‘Wildland–Urban Interfaces’ from an Archaeological Perspective. Journal of Urban Archaeology, 11, 141–154.
 
 #### 2024
 - Roberts, P., **Carleton, W.**, Amano, N., Findley D.M., Hamilton, R., Maezumi, S.Y., Winkelmann, R., Laubichler, M.D., Renn, J. (2024) Using urban pasts to speak to urban presents in the Anthropocene. Nature Cities [DOI: 10.1038/s44284-023-00014-4](https://doi.org/10.1038/s44284-023-00014-4).
