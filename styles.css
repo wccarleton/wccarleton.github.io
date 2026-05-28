@@ -1,7 +1,9 @@
 /* css styles */
 main.content p,
-main.content li {
-  text-align: justify;
+main.content li,
+.quarto-about-jolla main.content p {
+  text-align: justify !important;
+  text-align-last: left;
 }
 
 main.content h1,
