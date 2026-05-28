@@ -1,1 +1,1 @@
-Sitemap: https://wccarleton.github.io/sitemap.xml
+Sitemap: https://wccarleton.me/sitemap.xml

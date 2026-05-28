@@ -1,1 +1,15 @@
 /* css styles */
+div.contact-block table {
+  width: 100%;
+  border: 0;
+}
+
+div.contact-block table td,
+div.contact-block table th {
+  border: 0;
+  padding: 0 0 0.15rem;
+}
+
+div.contact-block table td:last-child {
+  text-align: right;
+}
