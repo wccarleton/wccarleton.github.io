@@ -9,8 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+        text: Highlights
       - href: cv.qmd
-        text: Full CV
+        text: CV
 
 format:
   html:
