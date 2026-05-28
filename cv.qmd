@@ -3,14 +3,15 @@ title: "Full Curriculum Vitae"
 ---
 ## W. Christopher Carleton, Ph.D
 
-Website: [https://wccarleton.me](https://wccarleton.me)  
-GitHub: [github.com/wccarleton](https://github.com/wccarleton)  
-Email: carleton@gea.mpg.de
-
-**Extreme Events Research Group**  
-Max Planck Institute of Geoanthropology  
-Kahlaische Str. 10  
-07745 Jena, Germany
+::: {.contact-block}
+|  |  |
+|:--|--:|
+| **Senior Scientist** | Website: [wccarleton.github.io](https://wccarleton.github.io/) |
+| **Coevolution of Land Use and Urbanisation** | GitHub: [github.com/wccarleton](https://github.com/wccarleton) |
+| Max Planck Institute of Geoanthropology | Email: carleton@gea.mpg.de |
+| Kahlaische Str. 10 | ORCID: [0000-0001-7463-8638](https://orcid.org/0000-0001-7463-8638) |
+| 07745 Jena, Germany | Google Scholar: [0ZG-6CsAAAAJ](https://scholar.google.ca/citations?user=0ZG-6CsAAAAJ&hl=en) |
+:::
 
 ## Profile
 

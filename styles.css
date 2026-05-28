@@ -1,4 +1,24 @@
 /* css styles */
+main.content p,
+main.content li {
+  text-align: justify;
+}
+
+main.content h1,
+main.content h2,
+main.content h3,
+main.content h4,
+main.content h5,
+main.content h6,
+main.content table,
+main.content th,
+main.content td,
+main.content .card,
+main.content .listing,
+main.content .quarto-listing {
+  text-align: initial;
+}
+
 div.contact-block table {
   width: 100%;
   border: 0;
