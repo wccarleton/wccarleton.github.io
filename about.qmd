@@ -1,21 +1,20 @@
 ---
-title: "Condensed CV"
+title: "CV in Brief"
 ---
 
 <!-- Condensed manually from cv.qmd. Future generator rules are documented in tools/build-cv.ps1. -->
 
 ## W. Christopher Carleton, Ph.D
 
-Website: [wccarleton.github.io](https://wccarleton.github.io/)  
-GitHub: [github.com/wccarleton](https://github.com/wccarleton)  
-Email: carleton@gea.mpg.de
-
-**Extreme Events Research Group**  
-Max Planck Institute of Geoanthropology  
-Kahlaische Str. 10  
-07745 Jena, Germany
-
-Research: [ORCID](https://orcid.org/0000-0001-7463-8638) and [Google Scholar](https://scholar.google.ca/citations?user=0ZG-6CsAAAAJ&hl=en)
+::: {.contact-block}
+|  |  |
+|:--|--:|
+| **Senior Scientist** | Website: [wccarleton.github.io](https://wccarleton.github.io/) |
+| **Coevolution of Land Use and Urbanisation** | GitHub: [github.com/wccarleton](https://github.com/wccarleton) |
+| Max Planck Institute of Geoanthropology | Email: carleton@gea.mpg.de |
+| Kahlaische Str. 10 | ORCID: [0000-0001-7463-8638](https://orcid.org/0000-0001-7463-8638) |
+| 07745 Jena, Germany | Google Scholar: [0ZG-6CsAAAAJ](https://scholar.google.ca/citations?user=0ZG-6CsAAAAJ&hl=en) |
+:::
 
 ## Profile
 
