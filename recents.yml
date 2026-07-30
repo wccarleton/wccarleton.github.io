@@ -1,10 +1,19 @@
 - tiles:
-    - title: Using urban pasts to speak to urban presents in the Anthropocene
-      href: https://www.nature.com/articles/s44284-023-00014-4
-      thumbnail: /assets/nat_cities.png
-    - title: Fire-human-climate interactions in the Bolivian Amazon rainforest ecotone from the Last Glacial Maximum to late Holocene
-      href: https://www.frontiersin.org/articles/10.3389/fearc.2023.1208985/full
-      thumbnail: /assets/fire.jpg
-    - title: Bayesian regression versus machine learning for rapid age estimation of archaeological features identified with lidar at Angkor
-      href: https://www.nature.com/articles/s41598-023-44875-0
-      thumbnail: /assets/angkor.png
+    - title: Connecting the general and particular in interdisciplinary urban research
+      href: https://doi.org/10.1038/s44284-026-00461-9
+      thumbnail: /assets/urban-research-2026.svg
+      description: Networks representing detailed local evidence and general urban patterns converge on a shared city.
+    - title: Comparative Spatial Analysis Reveals Important Structural Similarities Between Ancient Angkor and Late Anglo-Saxon Hampshire
+      href: https://doi.org/10.1007/s10816-026-09798-w
+      thumbnail: /assets/angkor.PNG
+      description: A mapped archaeological landscape at Angkor, Cambodia.
+    - title: Making comparative archaeological and historical urbanism rigorous and open access through the URBank data platform
+      href: https://doi.org/10.15184/aqy.2026.10287
+      thumbnail: /assets/urbank-2026.png
+      description: The URBank data model connects cities with spatial and temporal evidence.
+      attribution: "Figure 1, Carleton et al. (2026), CC BY 4.0."
+    - title: Hunter-gatherer sea voyages extended to remotest Mediterranean islands
+      href: https://doi.org/10.1038/s41586-025-08780-y
+      thumbnail: /assets/malta-seafaring-2025.png
+      description: Maps locating Malta and the Latnija archaeological site, with a photograph of the coastal landscape.
+      attribution: "Figure 1, Scerri et al. (2025), CC BY 4.0."

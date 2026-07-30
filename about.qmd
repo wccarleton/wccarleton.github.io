@@ -41,7 +41,7 @@ Archaeological data science | Spatial analysis | Remote sensing | Bayesian model
 
 ## Selected Recent Publications
 
-- **Carleton, W.C.**, et al. (in press) Comparative Spatial Analysis Reveals Important Structural Similarities Between Ancient Angkor and Late Anglo-Saxon Hampshire. Journal of Archaeological Method and Theory. [DOI: 10.1007/s10816-026-09798-w](https://doi.org/10.1007/s10816-026-09798-w)
+- **Carleton, W.C.**, et al. (2026) Comparative Spatial Analysis Reveals Important Structural Similarities Between Ancient Angkor and Late Anglo-Saxon Hampshire. Journal of Archaeological Method and Theory. [DOI: 10.1007/s10816-026-09798-w](https://doi.org/10.1007/s10816-026-09798-w)
 - **Carleton, W.C.**, et al. (2026) Making comparative archaeological and historical urbanism rigorous and open access through the URBank data platform. Antiquity, 1-7. [DOI: 10.15184/aqy.2026.10287](https://doi.org/10.15184/aqy.2026.10287)
 - Scerri, E.M.L., ... **Carleton, W.C.**, ... et al. (2026) Hunter-gatherer sea voyages extended to remotest Mediterranean islands. Nature, 641, 137-143. [DOI: 10.1038/s41586-025-08780-y](https://doi.org/10.1038/s41586-025-08780-y)
 - **Carleton, W.C.**, et al. (2025) Parallel scaling of elite wealth in ancient Roman and modern cities with implications for understanding urban inequality. Nature Cities. [DOI: 10.1038/s44284-025-00213-1](https://doi.org/10.1038/s44284-025-00213-1)
