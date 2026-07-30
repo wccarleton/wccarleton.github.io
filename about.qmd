@@ -1,21 +1,20 @@
 ---
-title: "Condensed CV"
+title: "CV in Brief"
 ---
 
 <!-- Condensed manually from cv.qmd. Future generator rules are documented in tools/build-cv.ps1. -->
 
 ## W. Christopher Carleton, Ph.D
 
-Website: [wccarleton.github.io](https://wccarleton.github.io/)  
-GitHub: [github.com/wccarleton](https://github.com/wccarleton)  
-Email: carleton@gea.mpg.de
-
-**Extreme Events Research Group**  
-Max Planck Institute of Geoanthropology  
-Kahlaische Str. 10  
-07745 Jena, Germany
-
-Research: [ORCID](https://orcid.org/0000-0001-7463-8638) and [Google Scholar](https://scholar.google.ca/citations?user=0ZG-6CsAAAAJ&hl=en)
+::: {.contact-block}
+|  |  |
+|:--|--:|
+| **Senior Scientist** | Website: [wccarleton.github.io](https://wccarleton.github.io/) |
+| **Coevolution of Land Use and Urbanisation** | GitHub: [github.com/wccarleton](https://github.com/wccarleton) |
+| Max Planck Institute of Geoanthropology | Email: carleton@gea.mpg.de |
+| Kahlaische Str. 10 | ORCID: [0000-0001-7463-8638](https://orcid.org/0000-0001-7463-8638) |
+| 07745 Jena, Germany | Google Scholar: [0ZG-6CsAAAAJ](https://scholar.google.ca/citations?user=0ZG-6CsAAAAJ&hl=en) |
+:::
 
 ## Profile
 
@@ -43,7 +42,7 @@ Archaeological data science | Spatial analysis | Remote sensing | Bayesian model
 
 - **Carleton, W.C.**, et al. (2026) Comparative Spatial Analysis Reveals Important Structural Similarities Between Ancient Angkor and Late Anglo-Saxon Hampshire. Journal of Archaeological Method and Theory. [DOI: 10.1007/s10816-026-09798-w](https://doi.org/10.1007/s10816-026-09798-w)
 - **Carleton, W.C.**, et al. (2026) Making comparative archaeological and historical urbanism rigorous and open access through the URBank data platform. Antiquity, 1-7. [DOI: 10.15184/aqy.2026.10287](https://doi.org/10.15184/aqy.2026.10287)
-- Scerri, E.M.L., ... **Carleton, W.C.**, ... et al. (2026) Hunter-gatherer sea voyages extended to remotest Mediterranean islands. Nature, 641, 137-143. [DOI: 10.1038/s41586-025-08780-y](https://doi.org/10.1038/s41586-025-08780-y)
+- Scerri, E.M.L., ... **Carleton, W.C.**, ... et al. (2025) Hunter-gatherer sea voyages extended to remotest Mediterranean islands. Nature, 641, 137-143. [DOI: 10.1038/s41586-025-08780-y](https://doi.org/10.1038/s41586-025-08780-y)
 - **Carleton, W.C.**, et al. (2025) Parallel scaling of elite wealth in ancient Roman and modern cities with implications for understanding urban inequality. Nature Cities. [DOI: 10.1038/s44284-025-00213-1](https://doi.org/10.1038/s44284-025-00213-1)
 - Stewart, M., **Carleton, W.C.**, et al. (2025) The state of the late Quaternary megafauna extinction debate: a systematic review and analysis. Frontiers in Mammal Science, 4, 1678231. [DOI: 10.3389/fmamm.2025.1678231](https://doi.org/10.3389/fmamm.2025.1678231)
 - **Carleton, W.**, et al. (2023) Bayesian regression versus machine learning for rapid age estimation of archaeological features identified in lidar scans at Angkor. Scientific Reports. [DOI: 10.1038/s41598-023-44875-0](https://doi.org/10.1038/s41598-023-44875-0)

@@ -8,9 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Highlights
       - href: cv.qmd
-        text: Full CV
+        text: CV
 
 format:
   html:
@@ -21,5 +22,3 @@ format:
     toc: true
     mainfont: Helvetica
 
-resources:
-  - CNAME
