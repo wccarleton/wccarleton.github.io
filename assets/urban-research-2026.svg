@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Connecting approaches to interdisciplinary urban research</title>
+  <desc id="desc">Networks representing detailed local evidence and general urban patterns converge on a shared city.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102f3b"/>
+      <stop offset="1" stop-color="#176b70"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#071a20" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="675" fill="url(#background)"/>
+  <g fill="none" stroke="#83c5be" stroke-width="5" opacity=".75">
+    <path d="M140 155 285 95 395 190 240 300 105 265Z"/>
+    <path d="M140 155 240 300M285 95 240 300M395 190 140 155"/>
+    <path d="M1060 155 915 95 805 190 960 300 1095 265Z"/>
+    <path d="M1060 155 960 300M915 95 960 300M805 190 1060 155"/>
+  </g>
+  <g fill="#f4d35e">
+    <circle cx="140" cy="155" r="18"/><circle cx="285" cy="95" r="18"/>
+    <circle cx="395" cy="190" r="18"/><circle cx="240" cy="300" r="18"/>
+    <circle cx="105" cy="265" r="18"/>
+  </g>
+  <g fill="#ee964b">
+    <circle cx="1060" cy="155" r="18"/><circle cx="915" cy="95" r="18"/>
+    <circle cx="805" cy="190" r="18"/><circle cx="960" cy="300" r="18"/>
+    <circle cx="1095" cy="265" r="18"/>
+  </g>
+  <g stroke="#e9f5f2" stroke-width="7" stroke-linecap="round">
+    <path d="M410 215 540 305"/>
+    <path d="M790 215 660 305"/>
+  </g>
+  <g filter="url(#shadow)">
+    <circle cx="600" cy="365" r="135" fill="#f6f1df"/>
+    <path d="M505 408h190M530 408V315h140v93M560 315v-55h80v55M585 408v-60h30v60" fill="none" stroke="#164e58" stroke-width="15" stroke-linejoin="round"/>
+  </g>
+  <text x="240" y="380" fill="#f6f1df" font-family="Arial, sans-serif" font-size="31" text-anchor="middle">PARTICULAR</text>
+  <text x="960" y="380" fill="#f6f1df" font-family="Arial, sans-serif" font-size="31" text-anchor="middle">GENERAL</text>
+  <text x="600" y="580" fill="#fff" font-family="Arial, sans-serif" font-size="42" font-weight="700" text-anchor="middle">CONNECTED URBAN RESEARCH</text>
+</svg>
