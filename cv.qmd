@@ -7,7 +7,7 @@ Website: [https://wccarleton.me](https://wccarleton.me)
 GitHub: [github.com/wccarleton](https://github.com/wccarleton)  
 Email: carleton@gea.mpg.de
 
-**Extreme Events Research Group**  
+**Department of Coevolution of Land Use and Urbanisation**  
 Max Planck Institute of Geoanthropology  
 Kahlaische Str. 10  
 07745 Jena, Germany
@@ -33,7 +33,7 @@ Software-for-Science Developer**
 - BASH
 
 ### Publication Record
-- 35 peer-reviewed publications (15 as first author) in top journals including Nature, Nature Cities, and Nature Communications
+- 36 peer-reviewed publications (16 as first author) in top journals including Nature, Nature Cities, and Nature Communications
 
 ### Teaching
 - Three undergraduate courses taught in English at German universities (2 SWS each; 6 SWS total), with full responsibility for the design, delivery, assessment, and grading of two courses
@@ -72,6 +72,7 @@ Software-for-Science Developer**
 ### Peer-Reviewed Journal Articles
 
 #### 2026
+- **Carleton, W.C.**, Tho, T., Brotherson, D., Phin, S., Groucutt, H., Renn, J., Roberts, P. (2026) Bayesian modelling of the latent human influence field in archaeological urban sediments at Koh Ker, Cambodia. Journal of Archaeological Science, 193, 106663. [DOI: 10.1016/j.jas.2026.106663](https://doi.org/10.1016/j.jas.2026.106663)
 - Roberts, P., **Carleton, W.C.**, Maezumi, S.Y. et al. (2026) Connecting the general and particular in interdisciplinary urban research. Nat Cities. [https://doi.org/10.1038/s44284-026-00461-9](https://doi.org/10.1038/s44284-026-00461-9)
 - **Carleton, W.C.**, Klassen, S., Murphy, J.T., Roberts, P. (2026) Comparative Spatial Analysis Reveals Important Structural Similarities Between Ancient Angkor and Late Anglo-Saxon Hampshire. Journal of Archaeological Method and Theory. [DOI: 10.1007/s10816-026-09798-w](https://doi.org/10.1007/s10816-026-09798-w)
 - Patalano, R., Miller, J., Shipton, C., **Carleton, W.**, Gayantha, K., Gleixner, G., et al. (under review) Plant Wax Biomarker Evidence for Late Pleistocene-to-Holocene Forest Resilience and Ecological Refugium Dynamics at Panga ya Saidi, Coastal Kenya. [DOI: 10.21203/rs.3.rs-8758549/v1](https://doi.org/10.21203/rs.3.rs-8758549/v1)

@@ -1,4 +1,9 @@
 - tiles:
+    - title: Bayesian modelling of the latent human influence field in archaeological urban sediments at Koh Ker, Cambodia
+      href: https://doi.org/10.1016/j.jas.2026.106663
+      thumbnail: /assets/koh-ker-human-influence-2026.jpg
+      description: A conceptual spacetime map of the latent human influence field in archaeological soils and sediments at Koh Ker, Cambodia.
+      attribution: "Figure 1, Carleton et al. (2026), CC BY 4.0."
     - title: Connecting the general and particular in interdisciplinary urban research
       href: https://doi.org/10.1038/s44284-026-00461-9
       thumbnail: /assets/urban-research-2026.svg

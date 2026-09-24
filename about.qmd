@@ -22,7 +22,7 @@ Archaeologist and data scientist developing quantitative, spatial, and computati
 
 ## Outputs and Awards
 
-- 35 peer-reviewed publications (15 as first author) in top journals including Nature, Nature Cities, and Nature Communications
+- 36 peer-reviewed publications (16 as first author) in top journals including Nature, Nature Cities, and Nature Communications
 - $368,250 CAD in awards, fellowships, and grants
 - 2017-2019 Human Evolutionary Studies Program Post-Doctoral Fellowship, Simon Fraser University ($90,000 CAD)
 - 2016 Mitacs PhD Fellowship, Simon Fraser University and the University of British Columbia ($60,000 CAD)
@@ -40,6 +40,7 @@ Archaeological data science | Spatial analysis | Remote sensing | Bayesian model
 
 ## Selected Recent Publications
 
+- **Carleton, W.C.**, et al. (2026) Bayesian modelling of the latent human influence field in archaeological urban sediments at Koh Ker, Cambodia. Journal of Archaeological Science, 193, 106663. [DOI: 10.1016/j.jas.2026.106663](https://doi.org/10.1016/j.jas.2026.106663)
 - **Carleton, W.C.**, et al. (2026) Comparative Spatial Analysis Reveals Important Structural Similarities Between Ancient Angkor and Late Anglo-Saxon Hampshire. Journal of Archaeological Method and Theory. [DOI: 10.1007/s10816-026-09798-w](https://doi.org/10.1007/s10816-026-09798-w)
 - **Carleton, W.C.**, et al. (2026) Making comparative archaeological and historical urbanism rigorous and open access through the URBank data platform. Antiquity, 1-7. [DOI: 10.15184/aqy.2026.10287](https://doi.org/10.15184/aqy.2026.10287)
 - Scerri, E.M.L., ... **Carleton, W.C.**, ... et al. (2025) Hunter-gatherer sea voyages extended to remotest Mediterranean islands. Nature, 641, 137-143. [DOI: 10.1038/s41586-025-08780-y](https://doi.org/10.1038/s41586-025-08780-y)
